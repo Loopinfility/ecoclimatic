@@ -11,6 +11,7 @@
 
 ?>
 <!doctype html>
+<h1>HELLO WORLD</h1>
 <html <?php language_attributes(); ?>>
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
